@@ -6,3 +6,8 @@ knsdnefenff
 
 Sample website with plenty of files for demos
 iejdfnwenfnwrnfwe
+
+
+###Copyright
+
+2016 Copyright
