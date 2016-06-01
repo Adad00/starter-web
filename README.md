@@ -13,4 +13,4 @@ iejdfnwenfnwrnfwe
 	Just Adding text and her goes more text, more changes from myfeature branch
 ###Copyright
 
-2016 Copyright
+2016 Copyright all right reserved
